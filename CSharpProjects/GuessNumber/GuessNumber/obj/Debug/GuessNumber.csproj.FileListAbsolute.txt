@@ -1,0 +1,6 @@
+D:\Shared\DotNet\TraversyMedia\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+D:\Shared\DotNet\TraversyMedia\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+D:\Shared\DotNet\TraversyMedia\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+D:\Shared\DotNet\TraversyMedia\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+D:\Shared\DotNet\TraversyMedia\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+D:\Shared\DotNet\TraversyMedia\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
